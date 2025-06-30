@@ -1,2 +1,3 @@
 git practice is started now
-
+adding a new line of code to git 
+another new line to be added
